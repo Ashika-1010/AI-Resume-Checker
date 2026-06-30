@@ -102,7 +102,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-**Coming Soon**
+https://ai-resume-checker-alpha.vercel.app
 
 ---
 
